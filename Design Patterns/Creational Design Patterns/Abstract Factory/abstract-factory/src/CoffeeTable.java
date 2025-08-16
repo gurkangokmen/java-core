@@ -1,0 +1,4 @@
+
+interface CoffeeTable {
+    String info();
+}

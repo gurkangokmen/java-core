@@ -1,0 +1,4 @@
+private = only same class
+protected = same class, same package (subclass and non-subclass), different package subclass
+public = same class, same package (subclass and non-subclass), different package (subclass and non-subclass) ==> everywhere
+default = same class, same package (subclass and non-subclass)

@@ -1,0 +1,1 @@
+💫 import Thymeleaf to display HTML web pages, even without Thymeleaf expressions 

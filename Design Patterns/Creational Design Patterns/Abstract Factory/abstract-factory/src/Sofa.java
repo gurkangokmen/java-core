@@ -1,0 +1,3 @@
+interface Sofa {
+    String info();
+}

@@ -1,0 +1,16 @@
+What is Inheritance?
+- It is a mechanism where a class inherits the properties (fields) and behaviors (methods) of another class, known as the superclass or parent class.
+- The class that inherits from the superclass is called the subclass or child class.
+
+
+Why And When To Use "Inheritance"?
+- Code Reusability (fields and methods)
+- Method Overriding
+- Polymorphism
+- Hierarchical Organization
+
+
+Notes:
+- final class cannot inherit.
+- java does not support multiple inheritance.
+- java supports multiple implements.
