@@ -4,18 +4,18 @@ import java.util.ArrayList;
 public class Capacity {
     public static void main (String[] args) throws NoSuchFieldException, IllegalAccessException {
         // Create an ArrayList object
-        ArrayList<String> cars = new ArrayList<String>(11);
-        cars.add("Volvo");
-        cars.add("BMW");
-        cars.add("Ford");
-        cars.add("Mazda");
-        cars.add("Audi");
-        cars.add("Mercedes");
-        cars.add("Toyota");
-        cars.add("Nissan");
-        cars.add("Honda");
-        cars.add("Hyundai");
-        cars.add("Kia");
+        ArrayList<String> cars = new ArrayList<String>();
+          cars.add("Volvo");
+          cars.add("BMW");
+          cars.add("Ford");
+          cars.add("Mazda");
+          cars.add("Audi");
+          cars.add("Mercedes");
+          cars.add("Toyota");
+          cars.add("Nissan");
+          cars.add("Honda");
+          cars.add("Hyundai");
+          cars.add("Kia");
         //cars.add("Chevrolet");
 
         // Print ArrayList Capacity
