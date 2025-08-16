@@ -8,7 +8,13 @@ public class Main {
 		System.out.println(myVar);
 		
 		// Assign (error)
-		Level.LOW = Level.MEDIUM; // Compilation error: Cannot assign a value to final variable	
+		//Level.LOW = Level.MEDIUM; // Compilation error: Cannot assign a value to final variable
+
+
+		// Print
+		System.out.println(Level.LOW);
+		System.out.println(Level.LOW.values());
+		System.out.println(Level.LOW.name());
 
 	}
 
