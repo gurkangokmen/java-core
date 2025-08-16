@@ -15,3 +15,9 @@ SHIFT + SHIFT
 ```
 CTRL + F12
 ```
+
+
+`Go Line`
+```
+CTRL + G
+```
