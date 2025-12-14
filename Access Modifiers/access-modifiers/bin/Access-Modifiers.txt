@@ -1,4 +1,0 @@
-private = only same class
-protected = same class, same package (subclass and non-subclass), different package subclass(extends)
-public = same class, same package (subclass and non-subclass), different package ==> everywhere
-default = same class, same package (subclass and non-subclass)

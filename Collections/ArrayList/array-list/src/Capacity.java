@@ -16,7 +16,7 @@ public class Capacity {
           cars.add("Honda");
           cars.add("Hyundai");
           cars.add("Kia");
-        //cars.add("Chevrolet");
+        cars.add("Chevrolet");
 
         // Print ArrayList Capacity
         // Using reflection to get the capacity
