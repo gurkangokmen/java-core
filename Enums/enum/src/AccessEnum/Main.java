@@ -14,9 +14,9 @@ public class Main {
 
 
 		// Print
-		System.out.println(create_enum.Level.LOW);
-		System.out.println(create_enum.Level.LOW.values());
-		System.out.println(Level.LOW.name());
+//		System.out.println(create_enum.Level.LOW);
+//		System.out.println(create_enum.Level.LOW.values());
+//		System.out.println(Level.LOW.name());
 
 	}
 
