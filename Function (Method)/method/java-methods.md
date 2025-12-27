@@ -239,7 +239,7 @@ class Dog extends Animal {
 Runtime (dynamic) dispatch:
 ```java
 Animal a = new Dog();
-System.out.println(a.sound()); // woof
+
 ```
 
 Rules (simplified):
